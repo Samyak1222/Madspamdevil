@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @ASHWANI10**
+** © @Devill82**
 """                     
            
            
