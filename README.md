@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/Devill82"><img src="https://telegra.ph/file/98250596a2a987cd192f6.jpg"></a>
+<a href="https://t.me/Devill82"><img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg"></a>
 
 </details>
